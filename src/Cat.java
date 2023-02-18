@@ -1,3 +1,4 @@
 public class Cat {
     private String whiskers;
-    private String Name;
+    private String ears;
+}
